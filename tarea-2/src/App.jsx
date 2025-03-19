@@ -11,7 +11,7 @@ function App() {
 
         const content = `
       Nombre: ${fullName} <br>
-      ID: ${studentId} <br>
+      Carné: ${studentId} <br>
       Curso: ${course}
     `;
         setInfo(content);
