@@ -1,0 +1,10 @@
+:root {
+    --background-color: #F8F9FA;
+    --border-radius: 6px;
+    --font-family: 'Arial', sans-serif;
+    --primary-color: #4893C6;
+    --primary-hover: #64A4CE;
+    --secondary-color: #8DBEDC;
+    --secondary-hover: #B7D7EA;
+    --text-color: #212529;
+}
